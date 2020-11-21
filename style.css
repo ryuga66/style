@@ -1,0 +1,206 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: url(https://scrnshot.xyz/images/2020/11/21/yi-sun-shin-lone-destructor-mobile-legends-skin-uhdpaper.com-hd-mobile-5.2104.md.jpg) no-repeat;
+    background-size: cover;
+}
+
+#landingpage {
+    width: 100%;
+    display: block;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: 20px auto;
+    padding: auto;
+}
+
+.img-landingpage {
+    width: 600px;
+    display: block;
+    margin: 10px auto;
+    cursor: pointer;
+}
+
+.txt-landingpage {
+    display: block;
+    margin: 30px auto;
+    color: #fff;
+    font-size: 2em;
+}
+
+hr.garis-landingpage {
+    width: 40%;
+    display: block;
+    margin: -20px auto;
+    border: 2px solid #fff;
+}
+
+.btn-landingpage {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 250px;
+    height: 60px;
+    display: inline-block;
+    margin: 20px;
+    padding: 5px;
+    background-color :rgba(0, 127, 146, 0.6);
+    border: 3px solid #fff;
+    border-radius: 18px; 
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn-landingpage:hover {
+    background-color:rgba(0, 127, 146, 0.9);
+}
+
+#peraturan {
+    width: 100%;
+    height: 100%;
+    display: none;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(0,0,0, 0.7);
+}
+
+.box-peraturan {
+    width: 465px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+}
+
+.btn-peraturan {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 130px;
+    height: 40px;
+    display: block;
+    margin: -5px auto 15px auto;
+    padding: 5px;
+    background: transparent;
+    border: 2px solid #000;
+    border-radius: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+}
+
+.txt-peraturan-header {
+    width: 100%;
+    display: block;
+    margin: 10px auto 0 auto;
+    text-align: left;
+    font-size: 1.4em;
+}
+
+hr.garis-peraturan {
+    width: 48%;
+    display: block;
+    margin: 1px auto;
+    border: 2px solid #000;
+    float: left;
+}
+
+.txt-peraturan {
+    width: 100%;
+    display: block;
+    margin: 10px auto;
+    text-align: left;
+    font-size: 1.2em;
+}
+
+#claim {
+    width: 100%;
+    display: block;
+    margin: 20px auto;
+    padding: auto;
+}
+
+.img-claim {
+    width: 600px;
+    display: block;
+    margin: 10px auto;
+    cursor: pointer;
+}
+
+.txt-claim {
+    display: block;
+    margin: 30px auto;
+    color: #fff;
+    font-size: 2em;
+}
+
+hr.garis-claim {
+    width: 40%;
+    display: block;
+    margin: 15px auto;
+    border: 2px solid #fff;
+}
+
+.idhaam69 {
+    width: 80%;
+    display: block;
+    margin: 10px auto;
+}
+
+.box-idhaam69 {
+    width: auto;
+    height: auto;
+    display: inline-block;
+    margin: 10px;
+    padding: 0;
+    background-color :rgba(0, 127, 146, 0.6);
+    border: 5px solid #fff;
+    border-radius: 1px;
+    border-bottom-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+
+.txt-box {
+    width: 100%;
+    display: block;
+    margin: 10px auto;
+    font-size: 1.1em;
+    color: #fff;
+    font-weight: bold;
+}
+
+.img-box {
+    width: 280px;
+    height: auto;
+    display: block;
+    margin: 5px auto;
+}
+
+.btn-box {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 150px;
+    height: 40px;
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+    background: transparent;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 1em;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn-box:hover {
+    background: rgba(0, 127, 146, 0.6);
+}
